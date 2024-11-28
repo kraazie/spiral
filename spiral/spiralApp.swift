@@ -11,7 +11,8 @@ import SwiftUI
 struct spiralApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LoginView()
+//            PINView()
         }
     }
 }

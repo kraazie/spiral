@@ -8,7 +8,7 @@ Link: [https://www.figma.com/file/2oxs5W7sNoECiWePB5iY5f/Developer-Assesment?nod
 
 ## Project Structure
 
-- `Views/`: Main view controllers
+- `Views/`: Main Screens
   - LoginView
   - DashboardView
   - EditProfileView

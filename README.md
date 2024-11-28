@@ -27,6 +27,25 @@ Link: [https://www.figma.com/file/2oxs5W7sNoECiWePB5iY5f/Developer-Assesment?nod
   - Button styles
   - Color schemes
 
+## Screenshots
+
+<p float="left">
+  <img src="assets/1-login.png" width="250" />
+  <img src="assets/2-passkey.png" width="250" /> 
+  <img src="assets/3-success.png" width="250" />
+  <img src="assets/4-dashboard.png" width="250" />
+  <img src="assets/5-pin.png" width="250" />
+  <img src="assets/6-callerid.png" width="250" />
+  <img src="assets/7-editprofile.png" width="250" />
+</p>
+
+<!-- With image captions -->
+<p align="center">
+  <img src="assets/1-login.png" width="250" alt="Home Screen">
+  <br>
+  <em>Home Screen with featured content</em>
+</p>
+
 ## Getting Started
 
 1. Clone the repository
